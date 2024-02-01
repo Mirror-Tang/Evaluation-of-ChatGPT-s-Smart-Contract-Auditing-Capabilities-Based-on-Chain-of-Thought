@@ -3,9 +3,9 @@
 The following is a test of GPT-4's code analysis and vulnerability detection capabilities based on the audit report.
 
 ## Table of Contents
-1. [Prompt](##Prompt)
-2. [Audit Reports](##Audit Reports)
-3. [Metrics](##Metrics)
+1. [Prompt](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%202%20-%20Code%20detection%20based%20on%20smart%20contract%20audit%20reports.md#promptuse-this-consistently-for-every-report)
+2. [Audit Reports](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%202%20-%20Code%20detection%20based%20on%20smart%20contract%20audit%20reports.md#audit-reports)
+3. [Metrics](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%202%20-%20Code%20detection%20based%20on%20smart%20contract%20audit%20reports.md#metrics-8)
 
 ## Prompt：(Use this consistently for every report.)
 
