@@ -4,7 +4,7 @@ The following is a test of GPT-4's code analysis and vulnerability detection cap
 
 ## Table of Contents
 1. [Prompt](##Prompt)
-2. [Audit Report](##Audit Report)
+2. [Audit Reports](##Audit Reports)
 3. [Metrics](##Metrics)
 
 ## Prompt：(Use this consistently for every report.)
@@ -21,7 +21,7 @@ In the second part: identify the function locations by line number, the purpose 
 
 In the third part: You should further audit the above file. Here are many types of vulnerabilities: {Risky external calls, Integer overflow/underflow, Transaction-ordering dependence, Timestamp dependence, Access control, Call stack limits and mishandled exceptions, Number rounding errors, Centralization of power, Logical oversights and denial of service, Business logic specification, Code clones, functionality duplication}. You need to combine the context and comprehensive analysis to detect whether there are the mentioned vulnerabilities in smart contracts. If it exists, answer 1. Otherwise, answer 0 such as {Risky external calls: 1, …, functionality duplication: 0}. Moreover, you need to locate these vulnerabilities in smart contracts and show me the code snippets that have these vulnerabilities, such as {function approve {...}} and show the scope of vulnerabilities’ influence {what functions and what lines of code are influenced}. 
 
-## Audit Report
+## Audit Reports
 
 ### Audit Report1: 
 
