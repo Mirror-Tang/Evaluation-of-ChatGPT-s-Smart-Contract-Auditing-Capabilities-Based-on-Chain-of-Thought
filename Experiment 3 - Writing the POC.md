@@ -1,13 +1,13 @@
 # Experiment 3 - Writing the POC：
 
 ## Table of Contents
-1. [Type 1: Test for vulnerabilities before writing poc](##Type 1: Test for vulnerabilities before writing poc)
+1. [Type 1: Test for vulnerabilities before writing poc](#Type 1: Test for vulnerabilities before writing poc)
 
     [Results](###Results)
 
-2. [Type 2: Give the vulnerability hint before writing the poc](##Type 2: Give the vulnerability hint before writing the poc.)
+2. [Type 2: Give the vulnerability hint before writing the poc](#Type 2: Give the vulnerability hint before writing the poc.)
 
-    [Result statistics](###Result statistics)
+    [Result statistics](##Result statistics)
 
 ## Type 1: Test for vulnerabilities before writing poc.
 
