@@ -1,6 +1,6 @@
 This folder shows three experiments from our latest research paper, "Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought" which are:
 
-### [Experiment 1-Solidyfi-benchmark vulnerability detection capability test](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%201-Solidyfi-benchmark%20vulnerability%20detection%20capability%20test.md)
+### [Experiment 1-Solidifi-benchmark vulnerability detection capability test](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%201-Solidyfi-benchmark%20vulnerability%20detection%20capability%20test.md)
 
 ### [Experiment 2 - Code detection based on smart contract audit reports](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%202%20-%20Code%20detection%20based%20on%20smart%20contract%20audit%20reports.md)
 
