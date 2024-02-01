@@ -1,13 +1,13 @@
 # Experiment 3 - Writing the POC：
 
 ## Table of Contents
-1. [Type 1: Test for vulnerabilities before writing poc](#Type 1: Test for vulnerabilities before writing poc)
+1. [Type 1: Test for vulnerabilities before writing poc](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%203%20-%20Writing%20the%20POC.md#type-1-test-for-vulnerabilities-before-writing-poc)
 
     [Results](###Results)
 
-2. [Type 2: Give the vulnerability hint before writing the poc](#Type 2: Give the vulnerability hint before writing the poc.)
+2. [Type 2: Give the vulnerability hint before writing the poc](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%203%20-%20Writing%20the%20POC.md#type-2-give-the-vulnerability-prompt-before-writing-the-poc)
 
-    [Result statistics](##Result statistics)
+    [Result statistics](https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/Experiment%203%20-%20Writing%20the%20POC.md#result-statistics)
 
 ## Type 1: Test for vulnerabilities before writing poc.
 
