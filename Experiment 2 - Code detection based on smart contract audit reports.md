@@ -24,8 +24,7 @@ In the third part: You should further audit the above file. Here are many types 
 ## Audit Reports
 
 ### Audit Report1: 
-
-
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/1.png
 
 #### Source of code：
 
@@ -142,7 +141,7 @@ Using a 10-point scale, the evaluation of GPT-4's response based on the audit re
 
 ### Audit Report2: 
 
-https://github.com/Salusec/Salus-audit/blob/main/Unyx-Tech-Tomo_audit_report_2023-10-12.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/2.png
 
 #### Source of code：
 
@@ -303,7 +302,7 @@ Based on a 10-point scale, the evaluation of GPT-4's response according to the a
 
 ### Audit Report3: 
 
-https://github.com/Salusec/Salus-audit/blob/main/JungleToken_audit_report_2023-10-09.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/3.png
 
 #### Source of code：
 
@@ -382,7 +381,7 @@ Code Clones and Functionality Duplication: No instances detected.
 
 ### Audit Report4: 
 
-https://github.com/Salusec/Salus-audit/blob/main/Furion_audit_report_2023-07-28.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/4.png
 
 #### Source of code：
 
@@ -599,7 +598,7 @@ Based on a 10-point scale, the evaluation of GPT-4's response in accordance with
 
 ### Audit Report5: 
 
-https://github.com/Salusec/Salus-audit/blob/main/ISE_audit_report_2023-08-14.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/5.png
 
 #### Source of code：
 
@@ -776,7 +775,7 @@ Based on a 10-point scale, the assessment of GPT-4's response with reference to 
 
 ### Audit Report6: 
 
-https://github.com/Salusec/Salus-audit/blob/main/Filedoge_audit_report_2023-07-19.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/6.png
 
 #### Source of code：
 
@@ -1106,7 +1105,7 @@ Based on a 10-point scale, the evaluation of GPT-4's response with regard to the
 
 ### Audit Report8: 
 
-https://github.com/Salusec/Salus-audit/blob/main/MultiBit_audit_report_2023-05-31.pdf
+https://github.com/Mirror-Tang/Evaluation-of-ChatGPT-s-Smart-Contract-Auditing-Capabilities-Based-on-Chain-of-Thought/blob/master/reports/8.png
 
 #### Source of code：
 
